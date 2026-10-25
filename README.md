@@ -6,9 +6,6 @@ The browser interface is built with Gradio. Under the hood, Pydantic AI sends st
 
 [Installation](#installation) · [Usage](#usage) · [How it works](#how-it-works) · [Troubleshooting](#troubleshooting)
 
-🎥 Check out the short demo video to see it in action!
-https://lnkd.in/p/eteTN3Mm
-
 ## System requirements
 
 Recommended for Bonsai 2 27B (`PQ2_0`) with the app's 32,768-token context:
