@@ -1,0 +1,199 @@
+{"Konto": "03000", "data": ["03000", "Pensions- und ähnliche", "Rückstellung", "Pensionsrückstellungen", "Rückstellungen"]}
+{"Konto": "03005", "data": ["03005", "Rückst. f. Pensionen u. ähnl.", "Rückstellung", "Pensionsrückstellungen", "Verpflicht. ggü.", "Gesellschaftern/nahe steh.", "Pers."]}
+{"Konto": "03009", "data": ["03009", "Rückstellungen f. Pensionen", "Rückstellung", "Pensionsrückstellungen", "u. ä. Verpfl. z. Sald."]}
+{"Konto": "03010", "data": ["03010", "Rückstellungen für", "Rückstellung", "Pensionsrückstellungen", "Direktzusagen"]}
+{"Konto": "03011", "data": ["03011", "Rückstellungen für", "Rückstellung", "Pensionsrückstellungen", "Zuschussverpflichtungen für", "Pensionskassen und LV"]}
+{"Konto": "03015", "data": ["03015", "Pensionsähnliche", "Rückstellung", "Pensionsrückstellungen", "Rückstellungen"]}
+{"Konto": "03020", "data": ["03020", "Steuerrückstellungen", "Rückstellung", "Steuerrückstellungen"]}
+{"Konto": "03035", "data": ["03035", "Gewerbesteuerrückstellung,", "Rückstellung", "Steuerrückstellungen", "§ 4 Abs. 5b EStG"]}
+{"Konto": "03040", "data": ["03040", "Körperschaftsteuerrückstellung", "Rückstellung", "Steuerrückstellungen"]}
+{"Konto": "03050", "data": ["03050", "Steuerrückstellung aus", "Rückstellung", "Steuerrückstellungen", "Steuerstundung (BStBK)"]}
+{"Konto": "03060", "data": ["03060", "Rückstellung für latente", "Rückstellung", "Steuerrückstellungen", "Steuern"]}
+{"Konto": "03065", "data": ["03065", "Passive latente Steuern", "Rückstellung", "Steuerrückstellungen"]}
+{"Konto": "03070", "data": ["03070", "Sonstige Rückstellungen", "Rückstellung", "sonstige"]}
+{"Konto": "03075", "data": ["03075", "Rückstellungen", "Rückstellung", "sonstige", "Instandhaltungen bis 3 M"]}
+{"Konto": "03076", "data": ["03076", "Rückstellungen mit", "Rückstellung", "sonstige", "Altersversorgung", "vergleichbare", "Verpflichtungen"]}
+{"Konto": "03077", "data": ["03077", "Rückstellungen mit", "Rückstellung", "sonstige", "Altersversorgung", "vergleichbare Verpfl. § 246", "Abs. 2 HGB"]}
+{"Konto": "03079", "data": ["03079", "Urlaubsrückstellungen", "Rückstellung", "sonstige"]}
+{"Konto": "03085", "data": ["03085", "Rückstellungen für Abraum-", "Rückstellung", "sonstige", "und Abfallbeseitigung"]}
+{"Konto": "03090", "data": ["03090", "Rückstellungen für", "Rückstellung", "sonstige", "Gewährleistungen"]}
+{"Konto": "03092", "data": ["03092", "Rückstellungen für drohende Rückstellung", "sonstige", "Verluste aus schwebenden", "Geschäften"]}
+{"Konto": "03095", "data": ["03095", "Rückstellungen für", "Rückstellung", "sonstige", "Abschluss- und", "Prüfungskosten"]}
+{"Konto": "03098", "data": ["03098", "Aufwandsrückstellungen", "Rückstellung", "sonstige", "gemäß § 249 Abs 2 HGB"]}
+{"Konto": "03099", "data": ["03099", "Rückstellungen für", "Rückstellung", "sonstige", "Umweltschutz"]}
+{"Konto": "03100", "data": ["03100", "Anleihen, nicht konvertibel", "Verbindlichkeiten", "sonstige"]}
+{"Konto": "03101", "data": ["03101", "Anleihen, nicht konvertibel -", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "03105", "data": ["03105", "Anleihen, nicht konvertibel -", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Restlaufzeit 1 bis 5  Jahre"]}
+{"Konto": "03110", "data": ["03110", "Anleihen, nicht konvertibel -", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Restlaufzeit größer 5  Jahre"]}
+{"Konto": "03120", "data": ["03120", "Anleihen, konvertibel", "Verbindlichkeiten", "sonstige"]}
+{"Konto": "03121", "data": ["03121", "Anleihen, konvertibel -", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "03125", "data": ["03125", "Anleihen, konvertibel -", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Restlaufzeit 1 bis 5 Jahre"]}
+{"Konto": "03130", "data": ["03130", "Anleihen, konvertibel -", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Restlaufzeit größer 5 Jahre"]}
+{"Konto": "03150", "data": ["03150", "Verbindlichkeiten geg.", "Verbindlichkeiten", "sonstige", "Kreditinstituten"]}
+{"Konto": "03151", "data": ["03151", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Kreditinstituten Restlaufzeit", "bis 1 Jahr"]}
+{"Konto": "03160", "data": ["03160", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Kreditinstituten Restlaufzeit 1", "bis 5 Jahre"]}
+{"Konto": "03170", "data": ["03170", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Kreditinstituten Restlaufzeit", "größer 5 Jahre"]}
+{"Konto": "03180", "data": ["03180", "Verbindlichkeiten geg.", "Verbindlichkeiten", "sonstige", "Kreditinstituten aus", "Teilzahlungsverträgen"]}
+{"Konto": "03181", "data": ["03181", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Kreditinstituten", "ausTeilzahlungsverträgen", "bis 1 Jahr"]}
+{"Konto": "03190", "data": ["03190", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Kreditinstituten aus", "Teilzahlungsverträgen 1 bis 5", "J"]}
+{"Konto": "03200", "data": ["03200", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Kreditinstituten aus", "Teilzahlungsvertragen gr. 5", "Jahre"]}
+{"Konto": "03250", "data": ["03250", "Erhaltene Anzahlungen auf", "Erhaltene Anzahlungen", "Bestellungen", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03260", "data": ["03260", "Erhaltene Anzahlungen 7 %", "Erhaltene Anzahlungen", "01.01.1993", "86", "USt. 7%", "USt.", "01.04.1998", "86", "275", "USt. 7%", "01.01.2007", "86", "275", "USt. 7%", "01.07.2020", "86", "275", "USt. 7%", "01.01.2021", "86", "275", "USt. 7%", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03261", "data": ["03261", "Erhaltene Anzahlungen 5 %", "Erhaltene Anzahlungen", "01.01.2007", "35", "155", "USt. 5%", "USt.", "01.07.2020", "35", "155", "USt. 5%", "01.01.2021", "35", "155", "USt. 5%", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03264", "data": ["03264", "Erhaltene Anzahlungen 0 %", "Erhaltene Anzahlungen", "01.01.2021", "87", "157", "USt.", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03270", "data": ["03270", "Erhaltene Anzahlungen 16 % Erhaltene Anzahlungen", "01.01.2007", "35", "155", "USt. 16%", "USt.", "01.07.2020", "35", "155", "USt. 16%", "01.01.2021", "35", "155", "USt. 16%", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03272", "data": ["03272", "Erhaltene Anzahlungen 19 % Erhaltene Anzahlungen", "01.01.1993", "51", "USt. 16%", "USt.", "01.04.1998", "51", "290", "USt. 16%", "01.01.2007", "81", "177", "USt. 19%", "01.07.2020", "81", "177", "USt. 19%", "01.01.2021", "81", "177", "USt. 19%", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03279", "data": ["03279", "Erhaltene Anzahlungen -", "Erhaltene Anzahlungen", "Nachsteuer", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03280", "data": ["03280", "Erhaltene Anzahlungen -", "Erhaltene Anzahlungen", "Restlaufzeit bis 1 Jahr", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03284", "data": ["03284", "Erhaltene Anzahlungen -", "Erhaltene Anzahlungen", "Restlaufzeit 1 bis 5  Jahre", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03285", "data": ["03285", "Erhaltene Anzahlungen -", "Erhaltene Anzahlungen", "Restlaufzeit größer 5  Jahre", "EÜ:", "Umsatzerlöse", "EUR-Gewinnermittlung:", "99/20 Pos. 112 Umsatzsteuerpflichtige Betriebseinnahmen"]}
+{"Konto": "03300", "data": ["03300", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Lieferungen und Leistungen"]}
+{"Konto": "03305", "data": ["03305", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Lieferungen und Leistungen", "zum allg. Umsatzsteuersatz"]}
+{"Konto": "03306", "data": ["03306", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Lieferungen und Leistungen", "zum erm. Umsatzsteuersatz"]}
+{"Konto": "03307", "data": ["03307", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Lieferungen und Leistungen", "ohne Vorsteuer"]}
+{"Konto": "03309", "data": ["03309", "Gegenkonto 3305-3307 b.", "Verbindlichkeiten", "sonstige", "Aufteilung der Verbindlichk.", "nach Steuersätzen (EÜR)"]}
+{"Konto": "03310", "data": ["03310", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Lieferungen und Leistungen", "ohne Kontokorrent"]}
+{"Konto": "03334", "data": ["03334", "Verindlichkeiten Investitionen Verbindlichkeiten", "sonstige", "§4/3 EStG"]}
+{"Konto": "03335", "data": ["03335", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Lieferungen und Leistungen", "ohne Kontokorrent bis 1 Jahr"]}
+{"Konto": "03337", "data": ["03337", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Lieferungen und Leistungen", "ohne Kontokorrent 1-5 J."]}
+{"Konto": "03338", "data": ["03338", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Lieferungen und Leistungen", "ohne Kontokorrent - gr. 5 J"]}
+{"Konto": "03340", "data": ["03340", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Lieferungen und Leistungen", "gg. Gesellschaftern"]}
+{"Konto": "03341", "data": ["03341", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Lieferungen und Leistungen", "gg. Gesellschaftern b. 1 J"]}
+{"Konto": "03345", "data": ["03345", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Lieferungen und Leistungen", "gg. Gesellschaftern 1-5 J."]}
+{"Konto": "03348", "data": ["03348", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Lieferungen und Leistungen", "gg. Gesellschaftern g. 5J"]}
+{"Konto": "03350", "data": ["03350", "Wechselverbindlichkeiten", "Verbindlichkeiten", "Wechselverbindlichkeit"]}
+{"Konto": "03351", "data": ["03351", "Wechselverbindlichkeiten bis Verbindlichkeiten", "Laufzeit bis 1 Jahr", "1 Jahr"]}
+{"Konto": "03380", "data": ["03380", "WWechselverbindlichkeiten", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre"]}
+{"Konto": "03390", "data": ["03390", "Wechselverbindlichkeiten", "Verbindlichkeiten", "Laufzeit über 5 Jahre"]}
+{"Konto": "03400", "data": ["03400", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "sonstige", "verbundenen Unternehmen"]}
+{"Konto": "03401", "data": ["03401", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "verbundenen Unternehmen", "bis 1 Jahr"]}
+{"Konto": "03405", "data": ["03405", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "verbundenen Unternehmen", "1-5 Jahre"]}
+{"Konto": "03410", "data": ["03410", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "verbundenen Unternehmen", "gr. 5 J."]}
+{"Konto": "03420", "data": ["03420", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Lieferungen und Leistungen", "gg. verbundene UN"]}
+{"Konto": "03421", "data": ["03421", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Lieferungen und Leistungen", "gg. verbundene UN bis 1 J"]}
+{"Konto": "03425", "data": ["03425", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Lieferungen und Leistungen", "gg. verbundene UN 1-5 J"]}
+{"Konto": "03430", "data": ["03430", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Lieferungen und Leistungen", "gg. verbundene UN gr. 5 J"]}
+{"Konto": "03450", "data": ["03450", "Verbindlichkeiten geg. UN m. Verbindlichkeiten", "sonstige", "Beteiligungsverhältnis"]}
+{"Konto": "03451", "data": ["03451", "Verbindlichkeiten geg. UN m. Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Beteiligungsverhältnis bis 1", "Jahr"]}
+{"Konto": "03455", "data": ["03455", "Verbindlichkeiten geg. UN m. Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Beteiligungsverhältnis 1-5", "Jahre"]}
+{"Konto": "03460", "data": ["03460", "Verbindlichkeiten geg. UN m. Verbindlichkeiten", "Laufzeit über 5 Jahre", "Beteiligungsverhältnis gr. 5 J"]}
+{"Konto": "03470", "data": ["03470", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Lieferungen und Leistungen", "gg.UN m.Bet.verh."]}
+{"Konto": "03471", "data": ["03471", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Lieferungen und Leistungen", "gg.UN m.Bet.verh. bis 1 J."]}
+{"Konto": "03475", "data": ["03475", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Lieferungen und Leistungen", "gg.UN m.Bet.verh. 1-5J."]}
+{"Konto": "03480", "data": ["03480", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Lieferungen und Leistungen", "gg.UN m.Bet.verh. gr.5J."]}
+{"Konto": "03500", "data": ["03500", "Sonstige Verbindlichkeiten", "Verbindlichkeiten", "sonstige"]}
+{"Konto": "03501", "data": ["03501", "Sonstige Verbindlichkeiten -", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "03504", "data": ["03504", "Sonstige Verbindlichkeiten -", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Restlaufzeit 1 bis 5 Jahre"]}
+{"Konto": "03507", "data": ["03507", "Sonstige Verbindlichkeiten -", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Restlaufzeit größer 5 Jahre"]}
+{"Konto": "03509", "data": ["03509", "Sonstige Verbindlichkeiten", "Verbindlichkeiten", "sonstige", "nach § 11 EStG"]}
+{"Konto": "03510", "data": ["03510", "Verbindlichkeiten geg.", "Verbindlichkeiten", "sonstige", "Gesellschaftern"]}
+{"Konto": "03511", "data": ["03511", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Gesellschaftern Restlaufzeit", "bis 1 Jahr"]}
+{"Konto": "03514", "data": ["03514", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Gesellschaftern Restlaufzeit", "1 bis 5 Jahre"]}
+{"Konto": "03517", "data": ["03517", "Verbindlichkeiten geg.", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Gesellschaftern Restlaufzeit", "größer 5 Jahre"]}
+{"Konto": "03519", "data": ["03519", "Verbindlichkeiten geg.", "Verbindlichkeiten", "sonstige", "Gesellschaftern offene", "Ausschüttungen"]}
+{"Konto": "03520", "data": ["03520", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "sonstige", "typisch stillen", "Gesellschaftern"]}
+{"Konto": "03521", "data": ["03521", "Verbindlichkeiten typisch", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "stille Gesellschafter -", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "03524", "data": ["03524", "Verbindlichkeiten typisch", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "stille Gesellschafter -", "Restlaufzeit 1 bis 5 Jahre"]}
+{"Konto": "03527", "data": ["03527", "Verbindlichkeiten typisch", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "stille Gesellschafter -", "Restlaufzeit größer 5 Jahre"]}
+{"Konto": "03530", "data": ["03530", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "sonstige", "atypisch stillen", "Gesellschaftern"]}
+{"Konto": "03531", "data": ["03531", "Verbindlichkeiten atypisch", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "stille Gesellschafter", "-Restlaufzeit bis 1 Jahr"]}
+{"Konto": "03534", "data": ["03534", "Verbindlichkeiten atypisch", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "stille Gesellschafter -", "Restlaufzeit 1 bis 5 Jahre"]}
+{"Konto": "03537", "data": ["03537", "Verbindlichkeiten atypisch", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "stille Gesellschafter -", "Restlaufzeit größer 5 Jahre"]}
+{"Konto": "03540", "data": ["03540", "Partiarische Darlehen", "Verbindlichkeiten", "sonstige"]}
+{"Konto": "03541", "data": ["03541", "Partiarische Darlehen -", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "03544", "data": ["03544", "Partiarische Darlehen -", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Restlaufzeit 1 bis 5 Jahre"]}
+{"Konto": "03547", "data": ["03547", "Partiarische Darlehen -", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Restlaufzeit größer 5 Jahre"]}
+{"Konto": "03550", "data": ["03550", "Erhaltene Kautionen", "Verbindlichkeiten", "sonstige"]}
+{"Konto": "03551", "data": ["03551", "Erhaltene Kautionen -", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "03554", "data": ["03554", "Erhaltene Kautionen -", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Restlaufzeit 1 bis 5 Jahre"]}
+{"Konto": "03557", "data": ["03557", "Erhaltene Kautionen -", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Restlaufzeit größer 5 Jahre"]}
+{"Konto": "03560", "data": ["03560", "Darlehen", "Verbindlichkeiten", "sonstige"]}
+{"Konto": "03561", "data": ["03561", "Darlehen - Restlaufzeit bis 1", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Jahr"]}
+{"Konto": "03564", "data": ["03564", "Darlehen - Restlaufzeit 1 bis", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "5 Jahre"]}
+{"Konto": "03567", "data": ["03567", "Darlehen - Restlaufzeit", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "größer 5 Jahre"]}
+{"Konto": "03600", "data": ["03600", "Agenturwarenabrechnungen", "Verbindlichkeiten", "sonstige"]}
+{"Konto": "03610", "data": ["03610", "Kreditkartenabrechnung", "Verbindlichkeiten", "sonstige"]}
+{"Konto": "03611", "data": ["03611", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "sonstige", "Arbeitsgemeinschaften"]}
+{"Konto": "03612", "data": ["03612", "Neutralisierung", "Verbindlichkeiten", "sonstige", "aufwandswirksamer", "Sachverhalte für § 4 Abs. 3", "EStG"]}
+{"Konto": "03613", "data": ["03613", "Ergebnisneutrale", "Verbindlichkeiten", "sonstige", "Sachverhalte für § 4 Abs. 3", "EStG"]}
+{"Konto": "03620", "data": ["03620", "Gewinnverfügungskonto stille Verbindlichkeiten", "sonstige", "Gesellschafter - sonstige", "Verbindlichkeiten"]}
+{"Konto": "03630", "data": ["03630", "Sonstige", "Interimskonto", "Verrechnungskonten"]}
+{"Konto": "03640", "data": ["03640", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "sonstige", "GmbH-Gesellschaftern"]}
+{"Konto": "03641", "data": ["03641", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "GmbH-Gesellschaftern - bis", "1 Jahr"]}
+{"Konto": "03642", "data": ["03642", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "GmbH-Gesellschaftern - 1", "bis 5 Jahre"]}
+{"Konto": "03643", "data": ["03643", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "GmbH-Gesellschaftern -", "größer 5 Jahre"]}
+{"Konto": "03645", "data": ["03645", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "sonstige", "persönlich haftenden", "Gesellschaftern"]}
+{"Konto": "03646", "data": ["03646", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "pers. haftenden", "Gesellschaftern - bis 1 Jahr"]}
+{"Konto": "03647", "data": ["03647", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "pers. haftenden", "Gesellschaftern - 1 bis 5", "Jahre"]}
+{"Konto": "03648", "data": ["03648", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "pers. haftenden", "Gesellschaftern - größer 5", "Jahre"]}
+{"Konto": "03650", "data": ["03650", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "sonstige", "Kommanditisten"]}
+{"Konto": "03651", "data": ["03651", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Kommanditisten - bis 1 Jahr"]}
+{"Konto": "03652", "data": ["03652", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Kommanditisten - 1 bis 5", "Jahre"]}
+{"Konto": "03653", "data": ["03653", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Kommanditisten - größer 5", "Jahre"]}
+{"Konto": "03655", "data": ["03655", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "sonstige", "stillen Gesellschaftern"]}
+{"Konto": "03656", "data": ["03656", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "stillen Gesellschaftern - bis 1", "Jahr"]}
+{"Konto": "03657", "data": ["03657", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "stillen Gesellschaftern - 1 bis", "5 Jahre"]}
+{"Konto": "03658", "data": ["03658", "Verbindlichkeiten gegenüber", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "stillen Gesellschaftern -", "größer 5 Jahre"]}
+{"Konto": "03695", "data": ["03695", "Verrechnung geleistete", "Verbindlichkeiten", "sonstige", "Anzahlung"]}
+{"Konto": "03700", "data": ["03700", "Verbindlichkeiten Steuern", "Verbindlichkeiten", "sonstige", "und Abgaben"]}
+{"Konto": "03701", "data": ["03701", "Verbindlichkeiten Steuern", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "und Abgaben bis 1 Jahr"]}
+{"Konto": "03710", "data": ["03710", "Verbindlichkeiten Steuern", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "und Abgaben 1 bis 5 Jahre"]}
+{"Konto": "03715", "data": ["03715", "Verbindlichkeiten Steuern", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "und Abgaben größer 5 Jahre"]}
+{"Konto": "03720", "data": ["03720", "Verbindlichkeiten aus Lohn", "Verbindlichkeiten", "sonstige", "und Gehalt"]}
+{"Konto": "03725", "data": ["03725", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Einbehaltungen von", "Arbeitnehmern"]}
+{"Konto": "03726", "data": ["03726", "Verbindlichkeiten an das", "Verbindlichkeiten", "sonstige", "Finanzamt aus", "abzuführendem", "Bauabzugsbetrag"]}
+{"Konto": "03730", "data": ["03730", "Verbindlichkeiten aus Lohn-", "Verbindlichkeiten", "sonstige", "u. Kirchensteuer"]}
+{"Konto": "03740", "data": ["03740", "Verbindlichkeiten soziale", "Verbindlichkeiten", "sonstige", "Sicherheit"]}
+{"Konto": "03741", "data": ["03741", "Verbindlichkeiten soziale", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Sicherheit bis 1 Jahr"]}
+{"Konto": "03750", "data": ["03750", "Verbindlichkeiten soziale", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Sicherheit 1 bis 5 Jahre"]}
+{"Konto": "03755", "data": ["03755", "Verbindlichkeiten soziale", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Sicherheit größer 5 Jahre"]}
+{"Konto": "03759", "data": ["03759", "Voraussichtliche", "Verbindlichkeiten", "sonstige", "Beitragsschuld gegenüber", "den", "Sozialversicherungsträgern", "EÜ:", "Umsatzsteuer Vorjahre", "EUR-Gewinnermittlung:", "99/20 Pos. 141 Vom Finanzamt erstattete und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03760", "data": ["03760", "Verbindlichk. a. Einbeh.", "Verbindlichkeiten", "sonstige", "(KapESt, SolZ, KiSt auf", "KapESt) f. off. Ausschütt."]}
+{"Konto": "03761", "data": ["03761", "Verbindlichkeiten für", "Verbindlichkeiten", "sonstige", "Verbrauchsteuern"]}
+{"Konto": "03770", "data": ["03770", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Vermögensbildung"]}
+{"Konto": "03771", "data": ["03771", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit bis 1 Jahr", "Vermögensbildung -", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "03780", "data": ["03780", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit 1 bis 5 Jahre", "Vermögensbildung -", "Restlaufzeit 1 bis 5 Jahre"]}
+{"Konto": "03785", "data": ["03785", "Verbindlichkeiten aus", "Verbindlichkeiten", "Laufzeit über 5 Jahre", "Vermögensbildung -", "Restlaufzeit größer 5 Jahre"]}
+{"Konto": "03786", "data": ["03786", "Ausgegebene", "Verbindlichkeiten", "sonstige", "Geschenkgutscheine"]}
+{"Konto": "03790", "data": ["03790", "Verrechnungskonto Lohn und Interimskonto", "Gehalt", "EÜ:", "Personalkosten", "BWA:", "Personalkosten"]}
+{"Konto": "03796", "data": ["03796", "Verbindlichkeiten im Rahmen Verbindlichkeiten", "sonstige", "der sozialen Sicherheit (für §", "4/3 EStG)", "EÜ:", "Personalkosten", "BWA:", "Personalkosten"]}
+{"Konto": "03798", "data": ["03798", "Umsatzsteuer aus i. a.", "Umsatzsteuer", "EU-Land steuerpfl. elektr.", "Dienstleistungen", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03799", "data": ["03799", "Steuerzahlungen aus im", "Umsatzsteuer", "anderen EU-Land", "steuerpflichtigen Leistungen", "EÜ:", "neutrale Aufwendungen", "EUR-Gewinnermittlung:", "99/25 Pos. 183 Übrige unbeschränkt abziehbare Betriebsausgaben"]}
+{"Konto": "03800", "data": ["03800", "Umsatzsteuer", "Umsatzsteuer", "01.01.2007", "36", "156", "01.07.2020", "36", "156", "01.01.2021", "36", "156", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03801", "data": ["03801", "Umsatzsteuer 7 %", "Umsatzsteuer", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03802", "data": ["03802", "Umsatzsteuer aus", "Umsatzsteuer", "01.07.2020", "98", "799", "EG-Erwerb", "01.01.2021", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03803", "data": ["03803", "Umsatzsteuer 5 %", "Umsatzsteuer", "01.01.2007", "98", "01.07.2020", "36", "156", "01.01.2021", "36", "156", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03804", "data": ["03804", "Umsatzsteuer aus", "Umsatzsteuer", "EG-Erwerb 19 %", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03805", "data": ["03805", "Umsatzsteuer 16 %", "Umsatzsteuer", "01.01.2007", "36", "156", "01.07.2020", "36", "156", "01.01.2021", "36", "156", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03806", "data": ["03806", "Umsatzsteuer 19 %", "Umsatzsteuer", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03807", "data": ["03807", "Umsatzsteuer", "Umsatzsteuer", "EG-Lieferungen", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03808", "data": ["03808", "Umsatzsteuer", "Umsatzsteuer", "EG-Lieferungen 19 %", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03809", "data": ["03809", "Umsatzsteuer aus", "Umsatzsteuer", "EG-Erwerb ohne", "Vorsteuerabzug", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03810", "data": ["03810", "Umsatzsteuer nicht fällig", "Rückstellung", "Steuerrückstellungen"]}
+{"Konto": "03811", "data": ["03811", "Umsatzsteuer nicht fällig 7 % Rückstellung", "Steuerrückstellungen"]}
+{"Konto": "03812", "data": ["03812", "Umsatzsteuer nicht fällig,", "Rückstellung", "Steuerrückstellungen", "EG-Lieferungen"]}
+{"Konto": "03813", "data": ["03813", "Umsatzsteuer nicht fällig 5 % Rückstellung", "Steuerrückstellungen"]}
+{"Konto": "03814", "data": ["03814", "Umsatzsteuer nicht fällig,", "Rückstellung", "Steuerrückstellungen", "EG-Lieferungen 19 %"]}
+{"Konto": "03815", "data": ["03815", "Umsatzsteuer nicht fällig 16", "Rückstellung", "Steuerrückstellungen", "%"]}
+{"Konto": "03816", "data": ["03816", "Umsatzsteuer nicht fällig 19", "Rückstellung", "Steuerrückstellungen", "%"]}
+{"Konto": "03817", "data": ["03817", "Umsatzsteuer aus im", "Umsatzsteuer", "anderen EU-Land", "steuerpflichtigen Lieferungen", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03818", "data": ["03818", "Umsatzsteuer aus im", "Umsatzsteuer", "anderen EU-Land steuerpfl.", "so.", "Leistungen/Werklieferungen", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03819", "data": ["03819", "Umsatzsteuer aus Erwerb als Umsatzsteuer", "letzter Abnehmer innerhalb", "eines Dreiecksgeschäfts"]}
+{"Konto": "03820", "data": ["03820", "Umsatzsteuervorauszahlungen", "Umsatzsteuervorauszahlung", "01.04.1998", "100", "01.01.2007", "100", "01.07.2020", "100", "01.01.2021", "100", "EÜ:", "Umsatzsteuervorauszahlungen", "EUR-Gewinnermittlung:", "99/25 Pos. 186 An das Finanzamt gezahlte und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03830", "data": ["03830", "Umsatzsteuer-Vorauszahlungen", "Umsatzsteuervorauszahlung", "01.04.1998", "39", "100", "1/11", "01.01.2007", "39", "100", "01.07.2020", "39", "100", "01.01.2021", "39", "100", "EÜ:", "Umsatzsteuervorauszahlungen", "EUR-Gewinnermittlung:", "99/25 Pos. 186 An das Finanzamt gezahlte und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03831", "data": ["03831", "Umsatzsteuer aus im Inland", "Umsatzsteuer", "steuerpflichtigen", "EU-Lieferungen, nur OSS", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03832", "data": ["03832", "Nachsteuer, UStVA Kz. 65", "Umsatzsteuer", "01.01.1993", "65", "01.04.1998", "65", "317", "01.01.2007", "65", "317", "01.07.2020", "65", "317", "01.01.2021", "65", "317", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03834", "data": ["03834", "Umsatzsteuer aus", "Umsatzsteuer", "01.01.2007", "96", "796", "innergemeinschaftlichem", "01.07.2020", "96", "796", "Erwerb von Neufahrzeugen", "01.01.2021", "96", "796", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/25 Pos. 186 An das Finanzamt gezahlte und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03835", "data": ["03835", "Umsatzsteuer nach § 13b", "Umsatzsteuer", "UStG", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/25 Pos. 186 An das Finanzamt gezahlte und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03836", "data": ["03836", "Umsatzsteuer nach § 13b", "Umsatzsteuer", "UStG 16 %", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/25 Pos. 186 An das Finanzamt gezahlte und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03837", "data": ["03837", "Umsatzsteuer nach § 13b", "Umsatzsteuer", "UStG 19 %", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03840", "data": ["03840", "USt laufendes Jahr", "Verbindlichkeiten", "sonstige", "EÜ:", "Umsatzsteuervorauszahlungen", "EUR-Gewinnermittlung:", "99/25 Pos. 186 An das Finanzamt gezahlte und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03841", "data": ["03841", "Umsatzsteuerverbindlichkeiten", "Verbindlichkeiten", "sonstige", "Vorjahr", "EÜ:", "Umsatzsteuer Vorjahre", "EUR-Gewinnermittlung:", "99/25 Pos. 186 An das Finanzamt gezahlte und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03845", "data": ["03845", "Umsatzsteuerverbindlichkeiten", "Verbindlichkeiten", "sonstige", "frühere Jahre", "EÜ:", "Umsatzsteuer Vorjahre", "EUR-Gewinnermittlung:", "99/25 Pos. 186 An das Finanzamt gezahlte und ggf. verrechnete Umsatzsteuer"]}
+{"Konto": "03850", "data": ["03850", "Aufgeschobene", "Verbindlichkeiten", "sonstige", "Einfuhrumsatzsteuer"]}
+{"Konto": "03851", "data": ["03851", "Unrichtig oder unberechtigt", "Umsatzsteuer", "01.01.1993", "69", "ausgewiesene Umsatzsteuer", "01.04.1998", "69", "318", "01.01.2007", "69", "318", "01.07.2020", "69", "318", "01.01.2021", "69", "318", "EÜ:", "vereinnahmte Umsatzsteuer", "EUR-Gewinnermittlung:", "99/20 Pos. 140 Vereinnahmte Umsatzsteuer sowie Umsatzsteuer auf unentgeltliche Wertabgaben"]}
+{"Konto": "03854", "data": ["03854", "Steuerzahlungen an andere", "Verbindlichkeiten", "sonstige", "Länder"]}
+{"Konto": "03860", "data": ["03860", "Verbindlichkeiten aus", "Verbindlichkeiten", "sonstige", "Umsatzsteuer-Vorauszahlungen"]}
+{"Konto": "03865", "data": ["03865", "Umsatzsteuer in", "Verbindlichkeiten", "sonstige", "Folgeperiode fällig (§§ 13", "Abs. 1 Nr. 6, 13b Abs. 2", "UStG)"]}
+{"Konto": "03900", "data": ["03900", "Passive", "Passive", "Rechnungsabgrenzung", "Rechnungsabgrenzung"]}
+{"Konto": "03950", "data": ["03950", "Abgrenzung unterjährige AfA Passive", "für BWA", "Rechnungsabgrenzung"]}

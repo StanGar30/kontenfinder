@@ -1,0 +1,109 @@
+{"Konto": "00100", "data": ["00100", "Entgeltlich erworbene", "Anlagevermögen", "sonstige", "01.01.1993", "VSt. 15%", "Konzessionen und", "01.04.1998", "VSt. 16%", "gewerbliche Schutzrechte", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00110", "data": ["00110", "Konzessionen", "Anlagevermögen", "sonstige", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00120", "data": ["00120", "Gewerbliche Schutzrechte", "Anlagevermögen", "sonstige", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00130", "data": ["00130", "Ähnliche Rechte und Werte", "Anlagevermögen", "sonstige", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00135", "data": ["00135", "EDV-Software", "Anlagevermögen", "sonstige", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00140", "data": ["00140", "Lizenzen an gewerblichen", "Anlagevermögen", "sonstige", "01.01.1993", "VSt. 15%", "Schutzrechten", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00143", "data": ["00143", "Selbst geschaffene", "Anlagevermögen", "sonstige", "immaterielle", "Vermögensgegenstände"]}
+{"Konto": "00144", "data": ["00144", "EDV-Software", "Anlagevermögen", "sonstige"]}
+{"Konto": "00145", "data": ["00145", "Lizenzen und", "Anlagevermögen", "sonstige", "Franchiseverträge"]}
+{"Konto": "00146", "data": ["00146", "Konzessionen und", "Anlagevermögen", "sonstige", "gewerbliche Schutzrechte"]}
+{"Konto": "00147", "data": ["00147", "Rezepte, Verfahren,", "Anlagevermögen", "sonstige", "Prototypen"]}
+{"Konto": "00148", "data": ["00148", "Immaterielle", "Anlagevermögen", "sonstige", "Vermögensgegenstände in", "Entwicklung"]}
+{"Konto": "00150", "data": ["00150", "Geschäfts- oder Firmenwert", "Anlagevermögen", "Firmenwert"]}
+{"Konto": "00170", "data": ["00170", "Anzahlungen auf", "Anlagevermögen", "sonstige", "01.01.1993", "VSt. 15%", "immaterielle", "01.04.1998", "VSt. 16%", "Vermögensgegenstände", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00179", "data": ["00179", "Anzahlungen auf Geschäfts-", "Anlagevermögen", "sonstige", "oder Firmenwert"]}
+{"Konto": "00200", "data": ["00200", "Grundstücke,", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "grundstücksgleiche Rechte", "01.04.1998", "VSt. 16%", "und Bauten", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00210", "data": ["00210", "Grundstücksgleiche Rechte", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "ohne Bauten", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00215", "data": ["00215", "Unbebaute Grundstücke", "Anlagevermögen", "Sachanlagen"]}
+{"Konto": "00220", "data": ["00220", "Grundstücksgleiche Rechte", "Anlagevermögen", "Sachanlagen"]}
+{"Konto": "00225", "data": ["00225", "Grundstücke mit", "Anlagevermögen", "Sachanlagen", "Substanzverzehr"]}
+{"Konto": "00230", "data": ["00230", "Bauten auf eigenen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Grundstücken", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00235", "data": ["00235", "Grundstückswerte eigener", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "bebauter Grundstücke", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00240", "data": ["00240", "Geschäftsbauten", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00250", "data": ["00250", "Fabrikbauten", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00260", "data": ["00260", "Andere Bauten", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00270", "data": ["00270", "Garagen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00280", "data": ["00280", "Außenanlagen Fabrik und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Geschäftsbauten", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00285", "data": ["00285", "Hof- und Wegebefestigungen Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00290", "data": ["00290", "Einrichtungen für Geschäfts-", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Fabrik- und andere Bauten", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00300", "data": ["00300", "Wohnbauten", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00305", "data": ["00305", "Garagen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00310", "data": ["00310", "Außenanlagen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00315", "data": ["00315", "Hof- und Wegebefestigungen Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00320", "data": ["00320", "Einrichtungen für", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Wohnbauten", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00329", "data": ["00329", "Gebäudeteil des häuslichen", "Anlagevermögen", "Sachanlagen", "01.01.2007", "VSt. 19%", "Arbeitszimmers", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00330", "data": ["00330", "Bauten auf fremden", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Grundstücken", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00340", "data": ["00340", "Geschäftsbauten", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00350", "data": ["00350", "Fabrikbauten", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00360", "data": ["00360", "Wohnbauten", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00370", "data": ["00370", "Andere Bauten", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00380", "data": ["00380", "Garagen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00390", "data": ["00390", "Außenanlagen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00395", "data": ["00395", "Hof- und Wegebefestigungen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00398", "data": ["00398", "Einrichtung Fabrik- und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Geschäftsbauten", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00400", "data": ["00400", "Technische Anlagen und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Maschinen", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00420", "data": ["00420", "Technische Anlagen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00440", "data": ["00440", "Maschinen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00450", "data": ["00450", "Transportanlagen und", "Anlagevermögen", "Sachanlagen", "01.01.2007", "VSt. 19%", "Ähnliches", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00460", "data": ["00460", "Maschinengebundene", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Werkzeuge", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00470", "data": ["00470", "Betriebsvorrichtungen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00500", "data": ["00500", "Betriebs- und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Geschäftsausstattung", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00510", "data": ["00510", "Andere Anlagen", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00520", "data": ["00520", "Pkw", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00540", "data": ["00540", "Lkw", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00560", "data": ["00560", "Sonstige Transportmittel", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00620", "data": ["00620", "Werkzeuge", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00630", "data": ["00630", "Betriebsausstattung", "Anlagevermögen", "Sachanlagen", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00635", "data": ["00635", "Geschäftsausstattung", "Anlagevermögen", "Sachanlagen", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00640", "data": ["00640", "Ladeneinrichtung", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00650", "data": ["00650", "Büroeinrichtung", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00660", "data": ["00660", "Gerüst- und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Schalungsmaterial", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00670", "data": ["00670", "Geringwertige", "Anlagevermögen", "Geringwertige WG", "01.01.1993", "VSt. 15%", "Wirtschaftsgüter", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00675", "data": ["00675", "Wirtschaftsgüter", "Anlagevermögen", "Geringwertige WG", "01.01.1993", "VSt. 15%", "(Sammelposten)", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00680", "data": ["00680", "Einbauten in fremde", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Grundstücke", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00690", "data": ["00690", "Sonstige Betriebs- und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Geschäftsausstattung", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00700", "data": ["00700", "Geleistete Anzahlungen und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Anlagen im Bau", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00705", "data": ["00705", "Anzahlungen auf Grund und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Boden", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00710", "data": ["00710", "Geschäfts-, Fabrik- und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "andere Bauten im Bau", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00720", "data": ["00720", "Anzahlungen auf Bauten auf", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "eigenen Grundstücken", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00725", "data": ["00725", "Wohnbauten im Bau", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00735", "data": ["00735", "Anzahlungen auf", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Wohnbauten auf eigenen", "01.04.1998", "VSt. 16%", "Grundstücken", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00740", "data": ["00740", "Geschäfts-, Fabrik- und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "andere Bauten im Bau", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00755", "data": ["00755", "Wohnbauten im Bau", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00765", "data": ["00765", "Anzahlungen auf", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Wohnbauten auf fremden", "01.04.1998", "VSt. 16%", "Grundtücken", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00770", "data": ["00770", "Technische Anlagen und", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Maschinen im Bau", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00780", "data": ["00780", "Anzahlungen auf Technische Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Anlagen und Maschinen", "01.04.1998", "VSt. 16%", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00785", "data": ["00785", "Andere Anlagen, Betriebs-", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "und Geschäftsausstattung im", "01.04.1998", "VSt. 16%", "Bau", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00795", "data": ["00795", "Anzahlungen auf andere", "Anlagevermögen", "Sachanlagen", "01.01.1993", "VSt. 15%", "Anlagen, Betriebs- und", "01.04.1998", "VSt. 16%", "Geschäftsausstattung", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 19%"]}
+{"Konto": "00800", "data": ["00800", "Anteile an verbundenen", "Anlagevermögen", "Finanzanlagen", "Unternehmen"]}
+{"Konto": "00803", "data": ["00803", "Anteile an verbundenen", "Anlagevermögen", "Finanzanlagen", "Unternehmen,", "Personengesellschaften"]}
+{"Konto": "00804", "data": ["00804", "Anteile an verbundenen", "Anlagevermögen", "Finanzanlagen", "Unternehmen,", "Kapitalgesellschaften"]}
+{"Konto": "00805", "data": ["00805", "Anteile an herrschender oder Anlagevermögen", "Finanzanlagen", "mehrheitlich beteiligter", "Personengesellschaften"]}
+{"Konto": "00806", "data": ["00806", "Anteile einer GmbH & Co.", "Anlagevermögen", "Finanzanlagen", "KG an einer", "Komplementär-GmbH"]}
+{"Konto": "00808", "data": ["00808", "Anteile an herrschender oder Anlagevermögen", "Finanzanlagen", "mehrheitlich beteiligter", "Kapitalgesellschaften"]}
+{"Konto": "00809", "data": ["00809", "Anteile an herrschender oder Anlagevermögen", "Finanzanlagen", "mit Mehrheit beteiligter", "Gesellschaft"]}
+{"Konto": "00810", "data": ["00810", "Ausleihungen an verbundene Anlagevermögen", "Finanzanlagen", "Unternehmen"]}
+{"Konto": "00813", "data": ["00813", "Ausleihungen an verbundene Anlagevermögen", "Finanzanlagen", "Unternehmen,", "Personengesellschaften"]}
+{"Konto": "00814", "data": ["00814", "Ausleihungen an verbundene Anlagevermögen", "Finanzanlagen", "Unternehmen,", "Kapitalgesellschaften"]}
+{"Konto": "00815", "data": ["00815", "Ausleihungen an verbundene Anlagevermögen", "Finanzanlagen", "Unternehmen,", "Einzelunternehmen"]}
+{"Konto": "00820", "data": ["00820", "Beteiligungen", "Anlagevermögen", "Finanzanlagen"]}
+{"Konto": "00829", "data": ["00829", "Beteiligung einer GmbH &", "Anlagevermögen", "Finanzanlagen", "Co. KG an einer", "Komplementär-GmbH"]}
+{"Konto": "00830", "data": ["00830", "Typisch stille Beteiligungen", "Anlagevermögen", "Finanzanlagen"]}
+{"Konto": "00840", "data": ["00840", "Atypisch stille Beteiligungen", "Anlagevermögen", "Finanzanlagen"]}
+{"Konto": "00850", "data": ["00850", "Beteiligungen an", "Anlagevermögen", "Finanzanlagen", "Kapitalgesellschaften"]}
+{"Konto": "00860", "data": ["00860", "Beteiligungen an", "Anlagevermögen", "Finanzanlagen", "Personengesellschaften"]}
+{"Konto": "00880", "data": ["00880", "Ausleihungen an UN mit", "Anlagevermögen", "Finanzanlagen", "Beteiligungsverhältnis"]}
+{"Konto": "00883", "data": ["00883", "Ausleihungen an UN mit", "Anlagevermögen", "Finanzanlagen", "Beteiligungsverhältnis,", "Personengesellschaften"]}
+{"Konto": "00885", "data": ["00885", "Ausleihungen an UN mit", "Anlagevermögen", "Finanzanlagen", "Beteiligungsverhältnis,Kapitalgesellschaften"]}
+{"Konto": "00900", "data": ["00900", "Wertpapiere des", "Anlagevermögen", "Finanzanlagen", "Anlagevermögens"]}
+{"Konto": "00910", "data": ["00910", "Wertpapiere mit", "Anlagevermögen", "Finanzanlagen", "Gewinnbeteiligungsansprüchen"]}
+{"Konto": "00920", "data": ["00920", "Festverzinsliche Wertpapiere Anlagevermögen", "Finanzanlagen"]}
+{"Konto": "00930", "data": ["00930", "Übrige sonstige", "Anlagevermögen", "Finanzanlagen", "Ausleihungen"]}
+{"Konto": "00940", "data": ["00940", "Darlehen", "Anlagevermögen", "Finanzanlagen"]}
+{"Konto": "00960", "data": ["00960", "Ausleihungen an", "Anlagevermögen", "Finanzanlagen", "Gesellschafter"]}
+{"Konto": "00961", "data": ["00961", "Ausleihungen an", "Anlagevermögen", "Finanzanlagen", "GmbH-Gesellschafter"]}
+{"Konto": "00962", "data": ["00962", "Ausleihungen an persönlich", "Anlagevermögen", "Finanzanlagen", "haftende Gesellschafter"]}
+{"Konto": "00963", "data": ["00963", "Ausleihungen an", "Anlagevermögen", "Finanzanlagen", "Kommanditisten"]}
+{"Konto": "00970", "data": ["00970", "Ausleihungen an nahe", "Anlagevermögen", "Finanzanlagen", "stehende Personen"]}
+{"Konto": "00980", "data": ["00980", "Genossenschaftsanteile zum Anlagevermögen", "Finanzanlagen", "langfristigen Verbleib"]}

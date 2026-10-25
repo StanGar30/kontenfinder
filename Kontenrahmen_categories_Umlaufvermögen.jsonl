@@ -1,0 +1,184 @@
+{"Konto": "01000", "data": ["01000", "Roh-, Hilfs- und", "Vorräte", "Roh-, Hilfs- und", "Betriebsstoffe", "Betriebsstoffe"]}
+{"Konto": "01040", "data": ["01040", "Unfertige Erzeugnisse und", "Vorräte", "unfertige Erzeugnisse", "Leistungen", "und Leistungen"]}
+{"Konto": "01050", "data": ["01050", "Unfertige Erzeugnisse", "Vorräte", "unfertige Erzeugnisse", "und Leistungen"]}
+{"Konto": "01080", "data": ["01080", "Unfertige Leistungen", "Vorräte", "unfertige Erzeugnisse", "und Leistungen"]}
+{"Konto": "01090", "data": ["01090", "In Ausführung befindliche", "Vorräte", "unfertige Erzeugnisse", "Bauaufträge", "und Leistungen"]}
+{"Konto": "01095", "data": ["01095", "In Arbeit befindliche Aufträge Vorräte", "sonstige"]}
+{"Konto": "01100", "data": ["01100", "Fertige Erzeugnisse und", "Vorräte", "fertige Erzeugnisse", "Waren", "und Waren"]}
+{"Konto": "01110", "data": ["01110", "Fertige Erzeugnisse", "Vorräte", "fertige Erzeugnisse", "und Waren"]}
+{"Konto": "01140", "data": ["01140", "Waren", "Vorräte", "fertige Erzeugnisse", "und Waren"]}
+{"Konto": "01180", "data": ["01180", "Geleistete Anzahlungen auf", "Geleistete Anzahlungen", "Vorräte", "EÜ:", "Wareneinsatz und Fremdleistungen", "EUR-Gewinnermittlung:", "99/25 Pos. 100 Waren, Rohstoffe und Hilfsstoffe einschl. Nebenkosten"]}
+{"Konto": "01181", "data": ["01181", "Geleistete Anzahlungen 7 %", "Geleistete Anzahlungen", "01.01.1993", "VSt. 7%", "Vorsteuer", "01.04.1998", "VSt. 7%", "01.01.2007", "VSt. 7%", "01.07.2020", "VSt. 7%", "01.01.2021", "VSt. 7%", "EÜ:", "Wareneinsatz und Fremdleistungen", "EUR-Gewinnermittlung:", "99/25 Pos. 100 Waren, Rohstoffe und Hilfsstoffe einschl. Nebenkosten"]}
+{"Konto": "01182", "data": ["01182", "Geleistete Anzahlungen 5 %", "Geleistete Anzahlungen", "01.01.2007", "VSt. 5%", "Vorsteuer", "01.07.2020", "VSt. 5%", "01.01.2021", "VSt. 5%", "EÜ:", "Wareneinsatz und Fremdleistungen", "EUR-Gewinnermittlung:", "99/25 Pos. 100 Waren, Rohstoffe und Hilfsstoffe einschl. Nebenkosten"]}
+{"Konto": "01184", "data": ["01184", "Geleistete Anzahlungen 16", "Geleistete Anzahlungen", "01.01.2007", "VSt. 16%", "% Vorsteuer", "01.07.2020", "VSt. 16%", "01.01.2021", "VSt. 16%", "EÜ:", "Wareneinsatz und Fremdleistungen", "EUR-Gewinnermittlung:", "99/25 Pos. 100 Waren, Rohstoffe und Hilfsstoffe einschl. Nebenkosten"]}
+{"Konto": "01186", "data": ["01186", "Geleistete Anzahlungen 19", "Geleistete Anzahlungen", "01.04.1998", "VSt. 16%", "% Vorsteuer", "01.01.2007", "VSt. 19%", "01.07.2020", "VSt. 19%", "01.01.2021", "VSt. 19%", "EÜ:", "Wareneinsatz und Fremdleistungen", "EUR-Gewinnermittlung:", "99/25 Pos. 100 Waren, Rohstoffe und Hilfsstoffe einschl. Nebenkosten"]}
+{"Konto": "01190", "data": ["01190", "Erhaltene Anzahlungen auf", "Vorräte", "unfertige Erzeugnisse", "Bestellungen (von Vorräten", "und Leistungen", "offen abgesetzt)"]}
+{"Konto": "01200", "data": ["01200", "Forderungen aus Lieferungen Forderungen", "sonstige", "und Leistungen"]}
+{"Konto": "01210", "data": ["01210", "Forderungen aus Lieferungen Forderungen", "sonstige", "und Leistungen ohne", "Kontokorrent"]}
+{"Konto": "01215", "data": ["01215", "Forderungen aus Lieferungen Forderungen", "sonstige", "und Leistungen zum", "allgemeinen Steuersatz"]}
+{"Konto": "01216", "data": ["01216", "Forderungen aus Lieferungen Forderungen", "sonstige", "und Leistungen zum", "ermäßigten Steuersatz"]}
+{"Konto": "01217", "data": ["01217", "Forderungen aus stfr. oder", "Forderungen", "sonstige", "nicht stb. Lieferungen und", "Leistungen"]}
+{"Konto": "01218", "data": ["01218", "Forderungen aus Lieferungen Forderungen", "sonstige", "und Leistungen gemäß §24", "UStG"]}
+{"Konto": "01219", "data": ["01219", "Gegenkonto 1215-1218 bei", "Forderungen", "sonstige", "Aufteilung der Ford. nach", "Steuersätzen (EÜR)"]}
+{"Konto": "01220", "data": ["01220", "Forderungen nach § 11 EStG Forderungen", "sonstige", "für § 4/3"]}
+{"Konto": "01221", "data": ["01221", "Forderungen aus Lieferungen Forderungen", "Laufzeit bis 1 Jahr", "und Leistungen ohne", "Kontokorrent b. 1J"]}
+{"Konto": "01225", "data": ["01225", "Forderungen aus Lieferungen Forderungen", "Laufzeit 1 bis 5 Jahre", "und Leistungen ohne", "Kontokorrent g. 1J"]}
+{"Konto": "01230", "data": ["01230", "Wechsel aus Lieferungen", "Forderungen", "Wechselforderung", "und Leistungen"]}
+{"Konto": "01231", "data": ["01231", "Wechsel aus Lieferungen", "Forderungen", "Laufzeit bis 1 Jahr", "und Leistungen - Restlaufzeit", "bis 1 Jahr"]}
+{"Konto": "01232", "data": ["01232", "Wechsel aus Lieferungen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "und Leistungen - Restlaufzeit", "größer 1 Jahr"]}
+{"Konto": "01235", "data": ["01235", "Wechsel aus Lieferungen", "Forderungen", "Wechselforderung", "und Leistungen,", "bundesbankfähig"]}
+{"Konto": "01240", "data": ["01240", "Zweifelhafte Forderungen", "Forderungen", "sonstige"]}
+{"Konto": "01241", "data": ["01241", "Zweifelhafte Forderungen -", "Forderungen", "Laufzeit bis 1 Jahr", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "01245", "data": ["01245", "Zweifelhafte Forderungen -", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Restlaufzeit größer 1 Jahr"]}
+{"Konto": "01246", "data": ["01246", "Einzelwertberichtigung zu", "Forderungen", "Laufzeit bis 1 Jahr", "Forderungen - Restlaufzeit", "bis 1 Jahr"]}
+{"Konto": "01247", "data": ["01247", "Einzelwertberichtigung zu", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Forderungen - Restlaufzeit", "größer 1 Jahr"]}
+{"Konto": "01248", "data": ["01248", "Pauschalwertberichtigung zu", "Forderungen", "Laufzeit bis 1 Jahr", "Forderungen - Restlaufzeit", "bis 1 Jahr"]}
+{"Konto": "01249", "data": ["01249", "Pauschalwertberichtigung zu", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Forderungen - Restlaufzeit", "größer 1 Jahr"]}
+{"Konto": "01250", "data": ["01250", "Forderungen aus Lieferungen Forderungen", "sonstige", "und Leistungen gegen", "Gesellschafter"]}
+{"Konto": "01251", "data": ["01251", "Forderungen aus Lieferungen Forderungen", "Laufzeit bis 1 Jahr", "und Leistungen gegen", "Gesellschafter b 1J"]}
+{"Konto": "01255", "data": ["01255", "Forderungen aus Lieferungen Forderungen", "Laufzeit 1 bis 5 Jahre", "und Leistungen gegen", "Gesellschafter g. 1J"]}
+{"Konto": "01260", "data": ["01260", "Forderungen gegen", "Forderungen", "sonstige", "verbundene Unternehmen"]}
+{"Konto": "01261", "data": ["01261", "Forderungen gegen", "Forderungen", "Laufzeit bis 1 Jahr", "verbundene Unternehmen", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "01265", "data": ["01265", "Forderungen gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "verbundene Unternehmen", "Restlaufzeit größer 1 Jahr"]}
+{"Konto": "01266", "data": ["01266", "Besitzwechsel gegen", "Forderungen", "sonstige", "verbundene Unternehmen"]}
+{"Konto": "01267", "data": ["01267", "Besitzwechsel gegen", "Forderungen", "Laufzeit bis 1 Jahr", "verbundene Unternehmen", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "01268", "data": ["01268", "Besitzwechsel gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "verbundene Unternehmen", "Restlaufzeit größer 1 Jahr"]}
+{"Konto": "01269", "data": ["01269", "Besitzwechsel gegen", "Forderungen", "sonstige", "verbundene Unternehmen,", "bundesbankfähig"]}
+{"Konto": "01270", "data": ["01270", "Forderungen aus Lieferungen Forderungen", "sonstige", "und Leistungen gegen", "verbundene Unternehmen"]}
+{"Konto": "01271", "data": ["01271", "Forderungen aus Lieferungen Forderungen", "Laufzeit bis 1 Jahr", "und Leistungen gegen", "verbundene Unternehmen b.", "1J"]}
+{"Konto": "01275", "data": ["01275", "Forderungen aus Lieferungen Forderungen", "Laufzeit 1 bis 5 Jahre", "und Leistungen gegen", "verbundene Unternehmen g", "1J"]}
+{"Konto": "01276", "data": ["01276", "Wertberichtigung", "Forderungen", "Laufzeit bis 1 Jahr", "Forderungen gegen", "verbundene Unternehmen b.", "1J"]}
+{"Konto": "01277", "data": ["01277", "Wertberichtigung", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Forderungen gegen", "verbundene Unternehmen gr.", "1J"]}
+{"Konto": "01280", "data": ["01280", "Forderungen gegen", "Forderungen", "sonstige", "Unternehmen mit", "Beteiligungsverhältnis"]}
+{"Konto": "01281", "data": ["01281", "Forderungen gegen", "Forderungen", "Laufzeit bis 1 Jahr", "Unternehmen,mit", "Beteiligungsverhältnis b. 1J"]}
+{"Konto": "01285", "data": ["01285", "Forderungen gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Unternehmen, mit", "Beteiigungsverhältnis gr. 1J"]}
+{"Konto": "01286", "data": ["01286", "Besitzwechsel gegen", "Forderungen", "sonstige", "Unternehmen mit", "Beteiligungsverhältnis"]}
+{"Konto": "01287", "data": ["01287", "Besitzwechsel gegen", "Forderungen", "Laufzeit bis 1 Jahr", "Unternehmen mit", "Beteiligungsverhältnis  b. 1J"]}
+{"Konto": "01288", "data": ["01288", "Besitzwechsel gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Unternehmen mit", "Beteiligungsverhältnis gr. 1J"]}
+{"Konto": "01289", "data": ["01289", "Besitzwechsel gegen", "Forderungen", "sonstige", "Unternehmen mit", "Beteiligungsverhältnis,", "bundesbankfähig"]}
+{"Konto": "01290", "data": ["01290", "Forderungen aus Lieferungen Forderungen", "sonstige", "und Leistungen gegen UN", "mit Beteiligungsverhältnis"]}
+{"Konto": "01291", "data": ["01291", "Forderungen aus Lieferungen Forderungen", "Laufzeit bis 1 Jahr", "und Leistungen gg. UN mit", "Beteiligg. b. 1J"]}
+{"Konto": "01295", "data": ["01295", "Forderungen aus Lieferungen Forderungen", "Laufzeit 1 bis 5 Jahre", "und Leistungen gg. UN mit", "Beteiligg. gr.1J"]}
+{"Konto": "01296", "data": ["01296", "WB Forderungen gg. UN. mit Forderungen", "Laufzeit bis 1 Jahr", "Beteiliggverh. b. 1J"]}
+{"Konto": "01297", "data": ["01297", "WB Forderungen gg. UN. mit Forderungen", "Laufzeit 1 bis 5 Jahre", "Beteiligungsverh. gr.1J"]}
+{"Konto": "01298", "data": ["01298", "Ausstehende Einlagen", "Forderungen", "sonstige", "eingefordert"]}
+{"Konto": "01299", "data": ["01299", "Nachschüsse (Forderungen,", "Forderungen", "sonstige", "Gegenkonto 2929)"]}
+{"Konto": "01300", "data": ["01300", "Sonstige", "Forderungen", "sonstige", "Vermögensgegenstände"]}
+{"Konto": "01301", "data": ["01301", "Sonstige", "Forderungen", "Laufzeit bis 1 Jahr", "Vermögensgegenstände -", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "01305", "data": ["01305", "Sonstige", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Vermögensgegenstände -", "Restlaufzeit größer 1 Jahr"]}
+{"Konto": "01307", "data": ["01307", "Forderungen gegen", "Forderungen", "sonstige", "GmbH-Gesellschafter"]}
+{"Konto": "01308", "data": ["01308", "Forderungen gegen", "Forderungen", "Laufzeit bis 1 Jahr", "GmbH-Gesellschafter -", "Restlaufzeit bis 1 Jahr"]}
+{"Konto": "01309", "data": ["01309", "Forderungen gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "GmbH-Gesellschafter -", "Restlaufzeit größer 1 Jahr"]}
+{"Konto": "01310", "data": ["01310", "Forderungen gegen", "Forderungen", "sonstige", "Geschäftsführer"]}
+{"Konto": "01311", "data": ["01311", "Forderungen gegen", "Forderungen", "Laufzeit bis 1 Jahr", "Geschäftsführer bis 1J"]}
+{"Konto": "01315", "data": ["01315", "Forderungen gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Geschäftsführer größer 1J"]}
+{"Konto": "01317", "data": ["01317", "Forderungen gegen", "Forderungen", "sonstige", "persönlich haftende", "Gesellschafter"]}
+{"Konto": "01318", "data": ["01318", "Forderungen gegen", "Forderungen", "Laufzeit bis 1 Jahr", "persönlich haftende", "Gesellschafter - Restlaufzeit", "bis 1 Jahr"]}
+{"Konto": "01319", "data": ["01319", "Forderungen gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "persönlich haftende", "Gesellschafter - Restlaufzeit", "größer 1 J"]}
+{"Konto": "01320", "data": ["01320", "Forderungen gegen", "Forderungen", "sonstige", "Aufsichtsrats- u.", "Beirats-Mitglieder"]}
+{"Konto": "01321", "data": ["01321", "Forderungen gegen", "Forderungen", "Laufzeit bis 1 Jahr", "Aufsichtsrats- u.", "Beirats-Mitglieder bis 1 Jahr"]}
+{"Konto": "01325", "data": ["01325", "Forderungen gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Aufsichtsrats- u.", "Beirats-Mitglieder größer 1", "Jahr"]}
+{"Konto": "01330", "data": ["01330", "Forderungen gegen sonstige", "Forderungen", "sonstige", "Gesellschafter"]}
+{"Konto": "01331", "data": ["01331", "Forderungen gegen", "Forderungen", "Laufzeit bis 1 Jahr", "Gesellschafter - Restlaufzeit", "bis 1 Jahr"]}
+{"Konto": "01335", "data": ["01335", "Forderungen gegen", "Forderungen", "Laufzeit 1 bis 5 Jahre", "Gesellschafter - Restlaufzeit", "größer 1 Jahr"]}
+{"Konto": "01337", "data": ["01337", "Forderungen gegen typisch", "Forderungen", "sonstige", "stille Gesellschafter"]}
+{"Konto": "01338", "data": ["01338", "Forderungen gegen typisch", "Forderungen", "Laufzeit bis 1 Jahr", "stille Gesellschafter bis 1", "Jahr"]}
+{"Konto": "01339", "data": ["01339", "Forderungen gegen typisch", "Forderungen", "Laufzeit 1 bis 5 Jahre", "stille Gesellschafter größer 1", "Jahr"]}
+{"Konto": "01340", "data": ["01340", "Forderungen gegen Personal Forderungen", "sonstige", "aus Lohn- u.", "Gehaltsabrechnung"]}
+{"Konto": "01341", "data": ["01341", "Forderungen gegen Personal Forderungen", "Laufzeit bis 1 Jahr", "aus Lohn- und", "Gehaltsabrechnung b. 1 Jahr"]}
+{"Konto": "01345", "data": ["01345", "Forderungen gegen Personal Forderungen", "Laufzeit 1 bis 5 Jahre", "aus Lohn- und", "Gehaltsabrechnung gr. 1", "Jahr"]}
+{"Konto": "01350", "data": ["01350", "Kautionen", "Forderungen", "sonstige"]}
+{"Konto": "01351", "data": ["01351", "Kautionen - Restlaufzeit bis 1 Forderungen", "Laufzeit bis 1 Jahr", "Jahr"]}
+{"Konto": "01355", "data": ["01355", "Kautionen - Restlaufzeit", "Forderungen", "Laufzeit 1 bis 5 Jahre", "größer 1 Jahr"]}
+{"Konto": "01360", "data": ["01360", "Darlehen", "Forderungen", "sonstige"]}
+{"Konto": "01361", "data": ["01361", "Darlehen - Restlaufzeit bis 1", "Forderungen", "Laufzeit bis 1 Jahr", "Jahr"]}
+{"Konto": "01365", "data": ["01365", "Darlehen - Restlaufzeit", "Forderungen", "Laufzeit 1 bis 5 Jahre", "größer 1 Jahr"]}
+{"Konto": "01369", "data": ["01369", "Ford. ggü. Krankenkassen", "Forderungen", "sonstige", "aus", "Aufwendungsausgleichsgesetz"]}
+{"Konto": "01370", "data": ["01370", "Durchlaufende Posten", "Interimskonto"]}
+{"Konto": "01374", "data": ["01374", "Fremdgeld", "Interimskonto"]}
+{"Konto": "01375", "data": ["01375", "Agenturwarenabrechnung", "Forderungen", "sonstige"]}
+{"Konto": "01378", "data": ["01378", "Ansprüche aus", "Forderungen", "sonstige", "Rückdeckungsversicherungen"]}
+{"Konto": "01380", "data": ["01380", "Vermögensgegenst. z.", "Forderungen", "Laufzeit über 5 Jahre", "Erfüllung v. Pensionsrückst.", "u. ä. Verpfl."]}
+{"Konto": "01381", "data": ["01381", "Vermögensgegenst. z.", "Forderungen", "Laufzeit über 5 Jahre", "Saldierung m.", "Pensionsrückst. u. ä . Verpfl."]}
+{"Konto": "01382", "data": ["01382", "Vermögensgegenst. zur", "Forderungen", "sonstige", "Erfüllung mit", "Altersversorgung", "vergleichbaren Verpfl."]}
+{"Konto": "01383", "data": ["01383", "Vermögensgegenst. zur", "Forderungen", "sonstige", "Saldierung vergleichbare", "Verpfl. §246 Abs. 2 HGB"]}
+{"Konto": "01390", "data": ["01390", "GmbH-Anteile zum", "Forderungen", "Laufzeit bis 1 Jahr", "kurzfristigen Verbleib"]}
+{"Konto": "01391", "data": ["01391", "Forderungen gegen", "Forderungen", "sonstige", "Arbeitsgemeinschaften"]}
+{"Konto": "01393", "data": ["01393", "Genussrechte", "Forderungen", "sonstige"]}
+{"Konto": "01394", "data": ["01394", "Einzahlungsansprüche zu", "Forderungen", "sonstige", "Nebenleistungen oder", "Zuzahlungen"]}
+{"Konto": "01395", "data": ["01395", "Genossenschafts-Anteile", "Forderungen", "Laufzeit bis 1 Jahr", "zum kurzfristigen Verbleib"]}
+{"Konto": "01396", "data": ["01396", "Nachträglich abziehbare", "Vorsteuer", "01.01.1993", "64", "Vorsteuer, bewegliche", "01.04.1998", "64", "111", "Wirtschaftsgüter", "01.01.2007", "64", "111", "01.07.2020", "64", "111", "01.01.2021", "64", "111"]}
+{"Konto": "01397", "data": ["01397", "Zurückzuzahlende Vorsteuer, Vorsteuer", "01.01.1993", "64", "bewegliche Wirtschaftsgüter", "01.04.1998", "64", "111", "01.01.2007", "64", "111", "01.07.2020", "64", "111", "01.01.2021", "64", "111"]}
+{"Konto": "01398", "data": ["01398", "Nachträglich abziehbare", "Vorsteuer", "01.01.1993", "64", "Vorsteuer, unbewegliche", "01.04.1998", "64", "109", "Wirtschaftsgüter", "01.01.2007", "64", "109", "01.07.2020", "64", "109", "01.01.2021", "64", "109"]}
+{"Konto": "01399", "data": ["01399", "Zurückzuzahlende Vorsteuer, Vorsteuer", "01.01.1993", "64", "unbewegliche", "01.04.1998", "64", "109", "Wirtschaftsgüter", "01.01.2007", "64", "109", "01.07.2020", "64", "109", "01.01.2021", "64", "109"]}
+{"Konto": "01400", "data": ["01400", "Abziehbare Vorsteuer", "Vorsteuer", "01.01.1993", "66", "01.04.1998", "66", "320", "01.01.2007", "66", "320", "01.07.2020", "66", "320", "01.01.2021", "66", "320", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01401", "data": ["01401", "Abziehbare Vorsteuer 7 %", "Vorsteuer", "01.01.1993", "66", "01.04.1998", "66", "320", "01.01.2007", "66", "320", "01.07.2020", "66", "320", "01.01.2021", "66", "320", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01402", "data": ["01402", "Abziehbare Vorsteuer aus", "Vorsteuer", "01.01.1993", "61", "EG-Erwerb", "01.04.1998", "61", "761", "01.01.2007", "61", "761", "01.07.2020", "61", "761", "01.01.2021", "61", "761", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01403", "data": ["01403", "Abziehbare Vorsteuer 5 %", "Vorsteuer", "01.01.1993", "61", "01.04.1998", "61", "761", "01.01.2007", "61", "761", "01.07.2020", "66", "320", "01.01.2021", "66", "320", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01404", "data": ["01404", "Abziehbare Vorsteuer aus", "Vorsteuer", "01.01.1993", "61", "EG-Erwerb 19 %", "01.04.1998", "61", "761", "01.01.2007", "61", "761", "01.07.2020", "61", "761", "01.01.2021", "61", "761", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01405", "data": ["01405", "Abziehbare Vorsteuer 16 %", "Vorsteuer", "01.01.1993", "66", "01.04.1998", "66", "320", "01.01.2007", "66", "320", "01.07.2020", "66", "320", "01.01.2021", "66", "320", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01406", "data": ["01406", "Abziehbare Vorsteuer 19 %", "Vorsteuer", "01.01.1993", "66", "01.04.1998", "66", "320", "01.01.2007", "66", "320", "01.07.2020", "66", "320", "01.01.2021", "66", "320", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01407", "data": ["01407", "Abziehbare Vorsteuer nach § Vorsteuer", "01.04.1998", "67", "467", "13b UStG 19 %", "01.01.2007", "67", "467", "01.07.2020", "67", "467", "01.01.2021", "67", "467", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01408", "data": ["01408", "Abziehbare Vorsteuer nach § Vorsteuer", "01.04.1998", "67", "467", "13b UStG", "01.01.2007", "67", "467", "01.07.2020", "67", "467", "01.01.2021", "67", "467", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01409", "data": ["01409", "Abziehbare Vorsteuer nach § Vorsteuer", "01.04.1998", "67", "467", "13b UStG 16 %", "01.01.2007", "67", "467", "01.07.2020", "67", "467", "01.01.2021", "67", "467", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01410", "data": ["01410", "Aufzuteilende Vorsteuer", "Forderungen", "sonstige", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01411", "data": ["01411", "Aufzuteilende Vorsteuer 7 %", "Forderungen", "sonstige", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01412", "data": ["01412", "Aufzuteilende Vorsteuer aus", "Forderungen", "sonstige", "EG-Erwerb", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01413", "data": ["01413", "Aufzuteilende Vorsteuer aus", "Forderungen", "sonstige", "EG-Erwerb 19 %", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01414", "data": ["01414", "Aufzuteilende Vorsteuer 5 %", "Forderungen", "sonstige", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01415", "data": ["01415", "Aufzuteilende Vorsteuer 16", "Forderungen", "sonstige", "%", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01416", "data": ["01416", "Aufzuteilende Vorsteuer 19", "Forderungen", "sonstige", "%", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01417", "data": ["01417", "Aufzuteilende Vorsteuer nach Forderungen", "sonstige", "§§ 13a/13b UStG", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01418", "data": ["01418", "Aufzuteilende Vorsteuer nach Forderungen", "sonstige", "§§ 13a/13b UStG 16 %", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01419", "data": ["01419", "Aufzuteilende Vorsteuer nach Forderungen", "sonstige", "§§ 13a/13b UStG 19 %", "EÜ:", "verauslagte Vorsteuern"]}
+{"Konto": "01420", "data": ["01420", "Forderungen aus", "Forderungen", "sonstige", "Umsatzsteuer-Vorauszahlungen"]}
+{"Konto": "01422", "data": ["01422", "Umsatzsteuerforderungen", "Forderungen", "sonstige", "Vorjahr"]}
+{"Konto": "01425", "data": ["01425", "Umsatzsteuerforderungen", "Forderungen", "sonstige", "früherer Jahre"]}
+{"Konto": "01427", "data": ["01427", "Forderungen aus entrichteten Forderungen", "sonstige", "Verbrauchsteuern"]}
+{"Konto": "01432", "data": ["01432", "Abziehbare Vorsteuer aus", "Vorsteuer", "01.01.1993", "61", "EG-Erwerb von", "01.04.1998", "61", "761", "Neufahrzeugen", "01.01.2007", "61", "761", "01.07.2020", "61", "761", "01.01.2021", "61", "761", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01433", "data": ["01433", "Entstandene", "Vorsteuer", "01.01.1993", "62", "Einfuhrumsatzsteuer", "01.04.1998", "62", "762", "01.01.2007", "62", "762", "01.07.2020", "62", "762", "01.01.2021", "62", "762", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01434", "data": ["01434", "Vorsteuer in Folgeperiode/im Forderungen", "sonstige", "Folgejahr abziehbar"]}
+{"Konto": "01435", "data": ["01435", "Forderungen aus", "Forderungen", "sonstige", "Gewerbesteuerüberzahlungen"]}
+{"Konto": "01436", "data": ["01436", "Vorsteuer aus Erwerb als", "Forderungen", "sonstige", "letzter Abnehmer innerhalb", "eines Dreiecksgeschäfts", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01440", "data": ["01440", "Steuererstattungsansprüche", "Forderungen", "sonstige", "gegenüber anderen Ländern"]}
+{"Konto": "01450", "data": ["01450", "Körperschaftsteuerrückforderung", "Forderungen", "sonstige"]}
+{"Konto": "01456", "data": ["01456", "Forderungen an das", "Forderungen", "sonstige", "Finanzamt aus abgeführtem", "Bauabzugsbetrag"]}
+{"Konto": "01457", "data": ["01457", "Forderung gegenüber", "Forderungen", "sonstige", "Bundesagentur für Arbeit"]}
+{"Konto": "01460", "data": ["01460", "Geldtransit", "Interimskonto"]}
+{"Konto": "01480", "data": ["01480", "Gegenkonto Vorsteuer § 4/3", "Forderungen", "sonstige", "EStG", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01481", "data": ["01481", "Auflösung Vorsteuer aus", "Forderungen", "sonstige", "Vorjahr § 4/3 EStG"]}
+{"Konto": "01482", "data": ["01482", "Vorsteuer aus Investitionen § Forderungen", "sonstige", "4/3 EStG", "EÜ:", "verauslagte Vorsteuern", "EUR-Gewinnermittlung:", "99/25 Pos. 185 Gezahlte Vorsteuerbeträge"]}
+{"Konto": "01483", "data": ["01483", "Gegenkonto für Vorsteuer", "Forderungen", "sonstige", "nach Durchschnittssätzen für", "§ 4/3 EStG"]}
+{"Konto": "01486", "data": ["01486", "Verrechnungskonto", "Interimskonto", "Gewinnermittlung § 4/3", "EStG, nicht ergebniswirksam"]}
+{"Konto": "01490", "data": ["01490", "Verrechnungskonto", "Interimskonto", "Ist-Versteuerung"]}
+{"Konto": "01491", "data": ["01491", "Neutralisierung", "Forderungen", "sonstige", "ertragswirksamer", "Sachverhalte für § 4 Abs. 3", "EStG"]}
+{"Konto": "01495", "data": ["01495", "Verrechnung erhaltene", "Verbindlichkeiten", "sonstige", "Anzahlungen"]}
+{"Konto": "01498", "data": ["01498", "Überleitungskonto", "Betriebsausgaben", "sonstige", "Kostenstellen", "EÜ:", "Personalkosten", "BWA:", "Personalkosten", "Rating BWA:", "Personalkosten"]}
+{"Konto": "01500", "data": ["01500", "Anteile an verbundenen", "Umlaufvermögen", "Unternehmen", "(Umlaufvermögen)"]}
+{"Konto": "01504", "data": ["01504", "Anteile an herrschender", "Umlaufvermögen", "Gesellschaft", "(Umlaufvermögen)"]}
+{"Konto": "01510", "data": ["01510", "Sonstige Wertpapiere", "Umlaufvermögen"]}
+{"Konto": "01520", "data": ["01520", "Finanzwechsel", "Umlaufvermögen"]}
+{"Konto": "01525", "data": ["01525", "Wertpapiere mit", "Umlaufvermögen", "unwesentlichen", "Wertschwankungen"]}
+{"Konto": "01530", "data": ["01530", "Wertpapieranlagen kurzfr.", "Umlaufvermögen", "Disposition"]}
+{"Konto": "01550", "data": ["01550", "Schecks", "Finanzkonto", "Schecks"]}
+{"Konto": "01600", "data": ["01600", "Kasse", "Finanzkonto", "Kassenkonto"]}
+{"Konto": "01610", "data": ["01610", "Nebenkasse 1", "Finanzkonto", "Kassenkonto"]}
+{"Konto": "01620", "data": ["01620", "Nebenkasse 2", "Finanzkonto", "Kassenkonto"]}
+{"Konto": "01700", "data": ["01700", "Bank (Postbank)", "Finanzkonto", "Girokonto"]}
+{"Konto": "01710", "data": ["01710", "Bank (Postbank 1)", "Finanzkonto", "Girokonto"]}
+{"Konto": "01720", "data": ["01720", "Bank (Postbank 2)", "Finanzkonto", "Girokonto"]}
+{"Konto": "01730", "data": ["01730", "Bank (Postbank 3)", "Finanzkonto", "Girokonto"]}
+{"Konto": "01780", "data": ["01780", "LZB-Guthaben", "Finanzkonto", "sonstige"]}
+{"Konto": "01790", "data": ["01790", "Bundesbankguthaben", "Finanzkonto", "sonstige"]}
+{"Konto": "01800", "data": ["01800", "Bank", "Finanzkonto", "Girokonto"]}
+{"Konto": "01810", "data": ["01810", "Bank 1", "Finanzkonto", "Girokonto"]}
+{"Konto": "01820", "data": ["01820", "Bank 2", "Finanzkonto", "Girokonto"]}
+{"Konto": "01830", "data": ["01830", "Bank 3", "Finanzkonto", "Girokonto"]}
+{"Konto": "01840", "data": ["01840", "Bank 4", "Finanzkonto", "Girokonto"]}
+{"Konto": "01850", "data": ["01850", "Bank 5", "Finanzkonto", "Girokonto"]}
+{"Konto": "01890", "data": ["01890", "Finanzmittelanlagen", "Finanzkonto", "sonstige", "kurzfristige Finanzdisposition", "nicht im Finanzmittelfonds"]}
+{"Konto": "01900", "data": ["01900", "Aktive", "Aktive", "Rechnungsabgrenzung", "Rechnungsabgrenzung"]}
+{"Konto": "01920", "data": ["01920", "Aufwand Zölle und", "Aktive", "Verbrauchsteuern", "Rechnungsabgrenzung"]}
+{"Konto": "01930", "data": ["01930", "Als Aufwand berücksichtigte", "Aktive", "Umsatzsteuer auf", "Rechnungsabgrenzung", "Anzahlungen"]}
+{"Konto": "01940", "data": ["01940", "Damnum/Disagio", "Aktive", "Rechnungsabgrenzung"]}
+{"Konto": "01950", "data": ["01950", "Abgrenzung aktive latente", "Aktive", "Steuern", "Rechnungsabgrenzung"]}

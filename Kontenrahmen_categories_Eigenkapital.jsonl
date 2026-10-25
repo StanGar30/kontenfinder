@@ -1,0 +1,61 @@
+{"Konto": "02000", "data": ["02000", "Festkapital", "Kapital", "sonstige"]}
+{"Konto": "02010", "data": ["02010", "Variables Kapital", "Kapital", "sonstige"]}
+{"Konto": "02020", "data": ["02020", "Gesellschafter-Darlehen", "Kapital", "sonstige"]}
+{"Konto": "02050", "data": ["02050", "Kommandit-Kapital", "Kapital", "sonstige"]}
+{"Konto": "02060", "data": ["02060", "Verlustausgleichskonto", "Kapital", "sonstige"]}
+{"Konto": "02070", "data": ["02070", "Gesellschafter-Darlehen", "Kapital", "sonstige"]}
+{"Konto": "02100", "data": ["02100", "Privatentnahmen allgemein", "Privat", "Entnahmen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02130", "data": ["02130", "Unentgeltliche Wertabgaben", "Privat", "Entnahmen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02150", "data": ["02150", "Privatsteuern", "Privat", "Entnahmen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02180", "data": ["02180", "Privateinlagen", "Privat", "Einlagen", "EUR-Gewinnermittlung:", "99/29 Pos. 123 Einlagen einschl. Sach-, Leistungs- und Nutzungseinlagen"]}
+{"Konto": "02200", "data": ["02200", "Sonderausgaben beschränkt Privat", "Entnahmen", "abzugsfähig", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02230", "data": ["02230", "Sonderausgaben", "Privat", "Entnahmen", "unbeschränkt abzugsfähig", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02250", "data": ["02250", "Zuwendungen, Spenden", "Privat", "Entnahmen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02280", "data": ["02280", "Außergewöhnliche", "Privat", "Entnahmen", "Belastungen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02300", "data": ["02300", "Grundstücksaufwand", "Privat", "Entnahmen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02349", "data": ["02349", "Grundstücksaufwand", "Privat", "Entnahmen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02350", "data": ["02350", "Grundstücksertrag", "Privat", "Einlagen", "EUR-Gewinnermittlung:", "99/29 Pos. 123 Einlagen einschl. Sach-, Leistungs- und Nutzungseinlagen"]}
+{"Konto": "02399", "data": ["02399", "Grundstücksertrag", "Privat", "Einlagen", "EUR-Gewinnermittlung:", "99/29 Pos. 123 Einlagen einschl. Sach-, Leistungs- und Nutzungseinlagen"]}
+{"Konto": "02500", "data": ["02500", "Privatentnahmen allgemein", "Privat", "Entnahmen", "Teilh.", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02530", "data": ["02530", "Unentgeltliche Wertabgaben", "Privat", "Entnahmen", "Teilh.", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02550", "data": ["02550", "Privatsteuern Teilh.", "Privat", "Entnahmen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02580", "data": ["02580", "Privateinlagen Teilh.", "Privat", "Einlagen", "EUR-Gewinnermittlung:", "99/29 Pos. 123 Einlagen einschl. Sach-, Leistungs- und Nutzungseinlagen"]}
+{"Konto": "02600", "data": ["02600", "Sonderausgaben beschränkt Privat", "Entnahmen", "abzugsfähig Teilh.", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02630", "data": ["02630", "Sonderausgaben", "Privat", "Entnahmen", "unbeschränkt abzugsfähig", "Teilh.", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02650", "data": ["02650", "Zuwendungen, Spenden", "Privat", "Entnahmen", "Teilh.", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02680", "data": ["02680", "Außergewöhnliche", "Privat", "Entnahmen", "Belastungen Teilh.", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02700", "data": ["02700", "Grundstücksaufwand Teilh.", "Privat", "Entnahmen", "EUR-Gewinnermittlung:", "99/29 Pos. 122 Entnahmen einschl. Sach-, Leistungs- und Nutzungsentnahmen"]}
+{"Konto": "02750", "data": ["02750", "Grundstücksertrag Teilh.", "Privat", "Einlagen", "EUR-Gewinnermittlung:", "99/29 Pos. 123 Einlagen einschl. Sach-, Leistungs- und Nutzungseinlagen"]}
+{"Konto": "02900", "data": ["02900", "Gezeichnetes Kapital", "Kapital", "gezeichnetes Kapital"]}
+{"Konto": "02908", "data": ["02908", "Kapitalerhöhung aus", "Kapital", "gezeichnetes Kapital", "Gesellschaftsmitteln"]}
+{"Konto": "02909", "data": ["02909", "Erworbene eigene Anteile", "Kapital", "sonstige"]}
+{"Konto": "02920", "data": ["02920", "Kapitalrücklage", "Kapital", "gesetzliche", "Rücklagen"]}
+{"Konto": "02925", "data": ["02925", "Kapitalrücklage durch", "Kapital", "gesetzliche", "Ausgabe von Anteilen über", "Rücklagen", "Nennbetrag"]}
+{"Konto": "02926", "data": ["02926", "Kapitalrücklage durch", "Kapital", "gesetzliche", "Ausgabe von", "Rücklagen", "Schuldverschreibungen"]}
+{"Konto": "02927", "data": ["02927", "Kapitalrücklage gg.", "Kapital", "gesetzliche", "Vorzugsgewährung", "Rücklagen"]}
+{"Konto": "02928", "data": ["02928", "Kapitalrücklage durch", "Kapital", "gesetzliche", "Zuzahlungen in das", "Rücklagen", "Eigenkapital"]}
+{"Konto": "02929", "data": ["02929", "Nachschusskapital", "Kapital", "gesetzliche", "(Gegenkonto 1299)", "Rücklagen"]}
+{"Konto": "02930", "data": ["02930", "Gesetzliche Rücklage", "Kapital", "gesetzliche", "Rücklagen"]}
+{"Konto": "02935", "data": ["02935", "Rücklage f. Anteile an", "Kapital", "freie Rücklagen", "herrschendem oder mehrh.", "bet. Unternehmen"]}
+{"Konto": "02950", "data": ["02950", "Satzungsmäßige Rücklagen", "Kapital", "freie Rücklagen"]}
+{"Konto": "02960", "data": ["02960", "Andere Gewinnrücklagen", "Kapital", "freie Rücklagen"]}
+{"Konto": "02961", "data": ["02961", "Andere Gewinnrücklagen aus Kapital", "freie Rücklagen", "dem Erwerb eigener Anteile"]}
+{"Konto": "02962", "data": ["02962", "Eigenkapitalanteil von", "Kapital", "freie Rücklagen", "Wertaufholungen"]}
+{"Konto": "02963", "data": ["02963", "Gewinnrücklagen aus den", "Kapital", "freie Rücklagen", "Übergangsvorschriften", "BilMoG"]}
+{"Konto": "02964", "data": ["02964", "Gewinnrückl. a. d.", "Kapital", "freie Rücklagen", "Übergangsvorschr. BilMoG", "(Zuschr. Sachanlageverm.)"]}
+{"Konto": "02965", "data": ["02965", "Gewinnrückl. a. d.", "Kapital", "freie Rücklagen", "Übergangsvorschr. BilMoG", "(Zuschr. Finanzanlageverm.)"]}
+{"Konto": "02966", "data": ["02966", "Gewinnrückl. a. d.", "Kapital", "freie Rücklagen", "Übergangsvorschr. BilMoG", "(Auflös. Sonderpo. m.", "Rückl.Ant.)"]}
+{"Konto": "02967", "data": ["02967", "Latente Steuern", "Kapital", "freie Rücklagen", "(Gewinnrücklage Haben)"]}
+{"Konto": "02968", "data": ["02968", "Latente Steuern", "Kapital", "freie Rücklagen", "(Gewinnrücklage Soll)"]}
+{"Konto": "02969", "data": ["02969", "Rechnungsabgrenzungsposten", "Kapital", "freie Rücklagen", "(Gewinnrücklage Soll)"]}
+{"Konto": "02970", "data": ["02970", "Gewinnvortrag vor", "Kapital", "Gewinn- und", "Verwendung", "Verlustvortrag"]}
+{"Konto": "02978", "data": ["02978", "Verlustvortrag vor", "Kapital", "Gewinn- und", "Verwendung", "Verlustvortrag"]}
+{"Konto": "02980", "data": ["02980", "Übrige andere Sonderposten Rückstellung", "sonstige"]}
+{"Konto": "02981", "data": ["02981", "Steuerfreie Rücklagen nach", "Rückstellung", "sonstige", "§ 6b EStG"]}
+{"Konto": "02982", "data": ["02982", "Rücklage für", "Rückstellung", "sonstige", "Ersatzbeschaffung"]}
+{"Konto": "02988", "data": ["02988", "Rücklage für Zuschüsse", "Rückstellung", "sonstige", "EUR-Gewinnermittlung:", "99/27 Pos. 187/120 Auflösung/Bildung Rücklagen nach § 6c i.V.m. § 6b EStG, R 6.6 EstR"]}
+{"Konto": "02990", "data": ["02990", "Sonderposten mit", "Rückstellung", "sonstige", "Rücklageanteil,", "Sonderabschreibungen"]}
+{"Konto": "02995", "data": ["02995", "Ausgleichsposten bei", "Rückstellung", "sonstige", "Entnahmen § 4g EStG"]}
+{"Konto": "02997", "data": ["02997", "Sonderposten mit", "Rückstellung", "sonstige", "Rücklageanteil § 7g Abs. 5", "EStG"]}
+{"Konto": "02998", "data": ["02998", "Sonderposten für Zuschüsse", "Rückstellung", "sonstige", "Dritter"]}
+{"Konto": "02999", "data": ["02999", "Sonderposten für", "Rückstellung", "sonstige", "Investitionszulagen"]}
